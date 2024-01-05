@@ -1,6 +1,6 @@
 {
-     "name": "List ToDo",
-     "short_name": "List ToDo",
+     "name": "قائمة المهام",
+     "short_name": "قائمة المهام",
      "start_url": ".",
      "display": "standalone",
      "background_color": "#0175C2",
