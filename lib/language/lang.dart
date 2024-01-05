@@ -21,6 +21,7 @@ class MyLang implements Translations {
           "Category": "فئة",
           "No": "لا",
           "Task Delete Successfully": "تم حذف المهمة بنجاح",
+          "Not Completed": "غير مكتمل",
           "Yes": "نعم",
           "Are you sure you want to delete this task ?":
               "هل أنت متأكد أنك تريد حذف هذه المهمة؟",
@@ -35,20 +36,13 @@ class MyLang implements Translations {
           "Choose Language": "اختر اللغة",
           "Arbic": "العربية",
           "English": "الانكليزية",
-          "ToDo List is a note and diary app for Android devices where you can write down all your experiences and thoughts during the day":
-              "قائمة المهام هو تطبيق مذكرة ويومية على أجهزة الأندرويد حيث سيكون بإمكانك أن تكتب كل تجاربك، وأفكارك خلال اليوم",
-          "You can also use the Sections category to enter memos and various notes with ease: all you have to do is enter the title and text of the note. The advantage of the first daily tasks is that it enables you to arrange the various entries according to their category and give them distinct cards.":
-              " كما يمكنك إستعمال فئة الاقسام لإدخال المذكرات وملاحظات مختلفة وبكل سهولة. كل ماعليك فعله هو إدخال العنوان ونص الملاحظة. وتتمثل ميزة مهام اليومي الأولى في كونه يمكنك من ترتيب مختلف المدخلات بحسب صنفها وبإعطائها بطاقات مميزة.",
-          "You can then search for any entry using the date. Thanks to this feature, you will not need to remember exactly where you wrote something. Simply search in history and your past and future notes will be displayed.":
-              " يمكنك بعد ذلك البحث عن أية مدخلة بإستعمال التاريخ،. وبفضل هذه الميزة، فلن تحتاج إلى تذكر أين كتبت شيئا ما بالضبط، فمجرد ثبحث في التاريخ يتم عرض مذكراتك الماضية والمستقبلية .",
-          "So it is a comprehensive memo application, which gives you an easy-to-use and elegant interface,":
-              "إذن هو تطبيق مذكرة شامل، حيث يمنحك واجهة سهلة الاستخدام وأنيقة،",
-          "The application does not contain external servers. The application contains the local database. Only your notes are stored in your phone":
-              "التطبيق لايحتوي على سيرفرات خارجية .تطبيق يحتوي على قاعدة البيانات Local database المحلية يتم خزن مذكراتك فقط في هاتفك",
           "About App": "حول التطبيق",
-          "Not Completed": "غير مكتمل",
-          "Barzan Daoud Al-Hababi": "برزان داود الهبابي",
-          "Application developer": "مطور التطبيق",
+          "txt1":
+              " قائمة المهام عبارة عن تطبيق للمذكرات يمكنك من خلاله تدوين جميع تجاربك وأفكارك خلال اليوم ،يمكنك أيضًا استخدام فئة الأقسام لإدخال المذكرات والملاحظات المختلفة بكل سهولة كل ما عليك فعله هو إدخال عنوان ونص المذكرة.",
+          "txt2":
+              "ميزة المهام اليومية الأولى هي أنها تمكنك من ترتيب الإدخالات المختلفة وفقًا لذلك إلى فئتهم ومنحهم بطاقات مميزة.يمكنك بعد ذلك البحث عن أي إدخال باستخدام التاريخ. وبفضل هذه الميزة، لن تحتاج إلى تذكر المكان الدقيق الذي كتبت فيه شيئًا ما. ما عليك سوى البحث في التاريخ وسيتم عرض ملاحظاتك الماضية والمستقبلية.",
+          "txt3":
+              "لذا فهو تطبيق مذكرة شامل، يمنحك واجهة سهلة الاستخدام وأنيقة. لا يحتوي التطبيق على خوادم خارجية. يحتوي على قاعدة البيانات المحلية. يتم تخزين ملاحظاتك فقط في هاتفك",
         },
 
 //english
@@ -69,6 +63,7 @@ class MyLang implements Translations {
           "Category": "Category",
           "No": "No",
           "Task Delete Successfully": "Task Delete Successfully",
+          "Not Completed": "Not Completed",
           "Yes": "delete",
           "Are you sure you want to delete this task ?":
               "Are you sure you want to delete this task ?",
@@ -83,20 +78,13 @@ class MyLang implements Translations {
           "Choose Language": "Choose Language",
           "Arbic": "Arbic",
           "English": "English",
-          "ToDo List is a note and diary app for Android devices where you can write down all your experiences and thoughts during the day":
-              "ToDo List is a note and diary app for Android devices where you can write down all your experiences and thoughts during the day",
-          "You can also use the Sections category to enter memos and various notes with ease: all you have to do is enter the title and text of the note. The advantage of the first daily tasks is that it enables you to arrange the various entries according to their category and give them distinct cards.":
-              "You can also use the Sections category to enter memos and various notes with ease: all you have to do is enter the title and text of the note. The advantage of the first daily tasks is that it enables you to arrange the various entries according to their category and give them distinct cards.",
-          "You can then search for any entry using the date. Thanks to this feature, you will not need to remember exactly where you wrote something. Simply search in history and your past and future notes will be displayed.":
-              "You can then search for any entry using the date. Thanks to this feature, you will not need to remember exactly where you wrote something. Simply search in history and your past and future notes will be displayed.",
-          "So it is a comprehensive memo application, which gives you an easy-to-use and elegant interface,":
-              "So it is a comprehensive memo application, which gives you an easy-to-use and elegant interface,",
-          "The application does not contain external servers. The application contains the local database. Only your notes are stored in your phone":
-              "The application does not contain external servers. The application contains the local database. Only your notes are stored in your phone",
           "About App": "About App",
-          "Not Completed": "Not Completed",
-          "Application developer": "Application developer",
-          "Barzan Daoud Al-Hababi": "Barzan Daoud Al-Hababi",
+          "txt1":
+              "To-Do List is a diary application through which you can write down all your experiences and thoughts during the day. You can also use the Sections category to enter different memos and notes with ease. All you have to do is enter the title and text of the memo.",
+          "txt2":
+              "The first daily quest feature is that it enables you to arrange the different entries accordingly into their category and give them distinct cards. You can then search for any entry using the date. Thanks to this feature, you won't need to remember the exact place where you wrote something. Simply search the history and your past and future notes will be displayed.",
+          "txt3":
+              "So it is an all-in-one memo app, which gives you an easy-to-use and elegant interface. The application does not contain external servers. Contains the local database. Your notes are only stored in your phone",
         }
       };
 }

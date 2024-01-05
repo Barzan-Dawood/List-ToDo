@@ -143,10 +143,10 @@ class Home extends ConsumerWidget {
                   mainAxisAlignment: MainAxisAlignment.start,
                   children: [
                     const Divider(),
-                    const SizedBox(height: 9),
+                    const SizedBox(height: 5),
                     ElevatedButton.icon(
                       onPressed: () => Helpers.selectDate(context, ref),
-                      icon: Icon(Icons.date_range),
+                      icon: const Icon(Icons.date_range),
                       label: Text(DateFormat.yMMMd().format(selecteddate)),
                     ),
 
@@ -164,7 +164,7 @@ class Home extends ConsumerWidget {
             ],
           ),
           Positioned(
-            top: 65,
+            top: 60,
             left: 0,
             right: 0,
             child: SafeArea(
@@ -207,7 +207,7 @@ class Home extends ConsumerWidget {
                       isCompleteTasks: true,
                       tasks: completedTasks,
                     ),
-                    const SizedBox(height: 20),
+                    const SizedBox(height: 15),
                     Center(
                       child: ElevatedButton.icon(
                         onPressed: () {

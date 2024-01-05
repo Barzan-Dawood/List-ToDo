@@ -112,7 +112,7 @@ class _AddTaskScreenState extends ConsumerState<AddTaskScreen> {
           isComplete: false);
 
       await ref.read(taskProvider.notifier).creatTask(task).then((value) {
-        AppAlerts.displaySnackbar(context, "Task Add Successfully");
+        AppAlerts.displaySnackbar(context, "Task Add Successfully".tr);
         // context.go(RoutesLocation.Home);
         Get.toNamed("/home");
       });
